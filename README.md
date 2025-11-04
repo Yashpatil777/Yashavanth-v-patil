@@ -4,7 +4,7 @@
 
 **Full Stack Developer | Open Source Enthusiast | Lifelong Learner**
 
-🌍 &nbsp;**Chennai, Tamil Nadu, India**  
+🌍 &nbsp;**Bangalore, India**  
 💼 &nbsp;**Building things @ [Your Company]** *(replace if any)*  
 🔗 &nbsp;**yashpatil777.github.io** *(add your portfolio link)*  
 ✉️ &nbsp;**yashpatil777@proton.me** *(or your email)*  
